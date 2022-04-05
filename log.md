@@ -4,4 +4,6 @@
 
 ### [Require status checks to pass before merging] : Collaborator still can merge ...
 
-### [Require signed commits] : ... --> fixed
+### [Require signed commits] : Both Admin and collaborators cannot merge (commit not signed = verified)
+
+### [Include administrators] : 
